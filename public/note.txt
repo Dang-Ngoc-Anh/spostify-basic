@@ -1,0 +1,6 @@
+Create component = method createClass(Nhân Tham Số là 1 đối tượng)
+Hàm render quan trọng : Nó được coi là 1 trigger - Nó tự động update UI
+ tại mọi thời điểm khi có sự thay đổi UI(take care update UI)
+ 
+- JSX là javascript syntax extension (Phần mở rộng JS) viết như XML-LIKE
+
